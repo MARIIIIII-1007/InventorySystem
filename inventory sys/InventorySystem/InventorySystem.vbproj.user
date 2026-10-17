@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="frmAccountabilityReview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBarcodeTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGeneratePARICS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPARICSPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQRScan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegisterFoundItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStickerFormat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStickerPrintPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainDashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
